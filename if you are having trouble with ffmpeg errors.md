@@ -12,7 +12,7 @@ operable program or batch file.```, then you're in luck, cuz they're fixable!
 If you are using Unix operating systems, such as Ubuntu or Debian or Raspbian or what else except windows, you can download the software by using the command ``sudo apt-get install ffmpeg`` or [here](https://ffmpeg.org/download.html#build-linux)
 
 # Mac 
-If you are using MacOS X(i am sure litrally only a few people uses the good'o'MacOS), download that thing [here](https://ffmpeg.org/download.html#build-mac)
+If you are using MacOS X(i am sure litrally only a few people uses the good o' MacOS), download that thing [here](https://ffmpeg.org/download.html#build-mac)
 
 # Windows
 If you are using Windows OS, simply download that thing [here](https://ffmpeg.org/download.html#build-windows)
