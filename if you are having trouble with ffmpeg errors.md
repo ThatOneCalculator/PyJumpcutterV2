@@ -2,7 +2,7 @@
 If you see something like ```'ffmpeg' is not recognized as an internal or external command,
 operable program or batch file.```, then you're in luck, cuz they're fixable!
 Select your OS
-[Linux](./if you are having trouble with ffmpeg errors.md#*nix)
+[Linux](# *nix)
 
 
 
