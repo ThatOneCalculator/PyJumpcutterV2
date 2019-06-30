@@ -2,10 +2,10 @@
 If you see something like ```'ffmpeg' is not recognized as an internal or external command,
 operable program or batch file.```, then you're in luck, cuz they're fixable!
 
-|Select your OS|Link|
-|Unix/Linux|[Link](#Unix/Linux)|
-|Macintosh|[Link](#Mac)|
-|Microsoft|[Link](#Windows)|
+|Select your OS|Link
+|Unix/Linux|[Link](#Unix/Linux)
+|Macintosh|[Link](#Mac)
+|Microsoft|[Link](#Windows)
 
 
 
