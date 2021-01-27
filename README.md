@@ -1,5 +1,5 @@
 # PyJumpcutterV2
-carykh's but with improvements and a GUI!
+[carykh's](https://github.com/carykh/jumpcutter) but with improvements and a GUI!
 
 Requirements:
 - FFMPEG
